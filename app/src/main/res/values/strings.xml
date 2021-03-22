@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">leffa</string>
+    <string-array name="areas" >
+        <item>Espoo: OMENA</item>
+        <item>Espoo: SELLO</item>
+        <item>Helsinki: ITIS</item>
+        <item>Helsinki: KINOPALATSI</item>
+        <item>Helsinki: MAXIM</item>
+        <item>Helsinki: TENNISPALATSI</item>
+        <item>Vantaa: FLAMINGO</item>
+        <item>Jyväskylä: FANTASIA</item>
+        <item>Kuopio: SCALA</item>
+        <item>Lahti: KUVAPALATSI</item>
+        <item>Lappeenranta: STRAND</item>
+        <item>Oulu: PLAZA</item>
+        <item>Tampere: CINE ATLAS</item>
+        <item>Tampere: PLEVNA</item>
+        <item>Turku: KINOPALATSI</item>
+    </string-array>
+
+</resources>
